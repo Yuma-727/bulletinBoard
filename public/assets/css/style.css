@@ -1,0 +1,108 @@
+div {
+    box-sizing: border-box;
+    font-weight: bold;
+}
+
+.title{
+    font-size: 23px;
+}
+
+.box1{
+    float: left;
+    height: 100%;
+    width: 15%;
+    position: fixed;
+    background-color: #EEEEEE;
+    padding: 10pt 20pt;
+}
+
+.box2{
+    height: 50%;
+    width: 70%;
+    float: right;
+}
+.box2\.5{
+    width: 800px;
+    padding-top: 54px;
+    float: left;
+}
+
+.box3{
+    height: 315px;
+    width: 70%;
+    float: right;
+}
+
+.box3\.5{
+    width: 800px;
+    height: 300px;
+    float: left;
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    font-weight: bold;
+    background: #ffffff;
+    border-radius: 10px;/*角の丸み*/
+}
+
+.box3\.5\.1{
+    width: 800px;
+    height: 40px;
+    float: left;
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    font-weight: bold;
+    background: #ffffff;
+    border-radius: 10px;/*角の丸み*/
+}
+
+.box3\.5\.2{
+    width: 800px;
+    height: 170px;
+    float: left;
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    font-weight: bold;
+    background: #ffffff;
+    border-radius: 10px;/*角の丸み*/
+}
+
+.menu a{
+    text-decoration: none;
+}
+
+.star{
+    width: 13%;
+    height: auto;
+}
+.pic{
+    width: 43px;
+    height: auto;
+}
+.time{
+    margin-left: 400px;
+}
+
+.img_box, .text_box{
+    display: inline-block;
+    vertical-align: top;
+}
+
+span{
+    color: red;
+}
+
+.aaa{
+    float: left;
+    width: 160px;
+    height: 30px;
+    padding-top: 10px;
+    text-align: right;
+}
+
+.button{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+
